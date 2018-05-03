@@ -1,0 +1,45 @@
+ *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.row{
+    height:100px;
+    width:100%;
+}
+
+.second{
+    height:200px;
+    width:100%;
+    box-sizing:border-box;
+    padding:50px;
+}
+
+
+.first{
+    background-color:#cccccc;;
+    padding:25px;
+    box-sizing:border-box;
+}
+.box{
+    background-color: #3399ff;
+    height:50px;
+    width:50px;
+}
+
+.third{
+    background-color:#3399ff;
+}
+.fourth{
+    background-color: #66ffb3;
+}
+.fifth{
+    background-color:#99cc00;
+}
+.sixth{
+    background-color:#e6b800;
+} 
+
+
+
