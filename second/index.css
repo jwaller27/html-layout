@@ -1,0 +1,85 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    margin: 0 auto;
+}
+
+.main-page{
+    height:100%;
+    background-color: white;
+    padding: 5vh 10vh 5vh 10vh;
+    margin: 0 auto;
+}
+
+
+.top-box{
+    height:25vh;
+    background-color:white;
+    border-style:solid;
+    border-color:black;
+    padding-top:1vh;
+    padding-bottom:1vh;
+    border-width:4px;
+}
+
+ .first{
+    height:15vh;
+    width:5vh;
+    margin-left:1vh;
+    background-color:#9900cc;
+    display: inline-block;
+}
+
+.second{
+    height:21vh;
+    width:40vh;
+    background-color:green; 
+    display: inline-block;
+    margin-left:5vw;
+    margin-right:5vw;
+    margin-top:.5vh;
+}
+.third{
+    height:22vh;
+    width:22vh;
+    border-radius:50%;
+    background-color:lightblue;
+    display: inline-block;
+}
+.middle-box{
+    height:25vh;
+    border-style:dotted;
+    border-color:black;
+    padding: 5vh 5vh;
+    margin-top:25px;
+    margin-bottom:25px;
+    border-width:4px;
+}
+.shade{
+    height:15vh;
+    margin: 0 auto;
+    background-color:#ffffcc;
+    box-shadow: 7px 7px #4d4d4d;
+    
+}
+
+.bottom-box{
+    height:25vh;
+    width:50vh;
+    border-style:solid;
+    border-color:#888888;
+    box-shadow: 5px 5px #888888;
+    border-width: thin;
+}
+
+.text {
+    color:#002266;
+    font-size:30px;
+    letter-spacing: 6px;
+}
+.both{
+    text-align:center;
+    margin-top:75px;
+}
+
